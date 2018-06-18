@@ -194,7 +194,7 @@
 
       $this->rm('arc2-2.2.4', TRUE);
 
-      $this->rm('v*.zip*');
+    /**  $this->rm('v*.zip*'); */
 
       $this->chdir($this->currentWorkingDirectory);
     }
