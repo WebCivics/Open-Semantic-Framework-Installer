@@ -23,7 +23,7 @@ mkdir -p /usr/share/osf-installer/
 
 cd /usr/share/osf-installer/
 
-wget https://raw.github.com/WebCivics/Open-Semantic-Framework-Installer/3.4/install.sh
+wget https://raw.github.com/WebCivics/Open-Semantic-Framework-Installer/3.5/install.sh
 
 chmod 755 install.sh
 
